@@ -1,0 +1,32 @@
+[
+  {
+    "account_number": "ACC-100002",
+    "account_type": "savings",
+    "date": "2025-10-01 12:00:00",
+    "operation": "deposit",
+    "amount": 50.0,
+    "balance_after": 1944.0,
+    "status": "success",
+    "transaction_id": "EXTRA-100002-2"
+  },
+  {
+    "account_number": "ACC-100002",
+    "account_type": "savings",
+    "date": "2025-10-26 12:00:00",
+    "operation": "interest",
+    "amount": 10.0,
+    "balance_after": 5466.24,
+    "status": "success",
+    "transaction_id": "EXTRA-100002-3"
+  },
+  {
+    "account_number": "ACC-100004",
+    "account_type": "checking",
+    "date": "2025-10-27 12:00:00",
+    "operation": "deposit",
+    "amount": 20.0,
+    "balance_after": 20.0,
+    "status": "success",
+    "transaction_id": "BAD-TYPE-100004"
+  }
+]

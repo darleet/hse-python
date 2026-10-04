@@ -1,0 +1,7 @@
+account_number,account_type,date,operation,amount,balance_after,status,transaction_id
+ACC-100001,checking,2025-09-27 22:17:26,deposit,922.0,2122.0,success,LEGACY-ACC-100001-1
+ACC-100001,checking,2025-09-27 22:17:26,deposit,607.0,2728.0,success,LEGACY-ACC-100001-2
+ACC-100001,checking,2025-10-25 12:00:00,deposit,100.0,4572.0,success,EXTRA-100001-1
+ACC-100001,checking,2025-10-25 12:00:00,deposit,100.0,4672.0,success,EXTRA-100001-2
+ACC-100001,checking,2025-99-99 12:00:00,withdraw,5.0,0.0,success,BAD-100001-1
+ACC-100002,savings,2025-10-25 12:00:00,deposit,777.0,5406.24,success,EXTRA-100002-1
